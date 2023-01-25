@@ -1,0 +1,1 @@
+this project will help the buyer to get the accurate price of the laptop according to his desired attributes 
